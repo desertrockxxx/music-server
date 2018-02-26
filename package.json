@@ -1,0 +1,28 @@
+{
+  "name": "music-server",
+  "version": "1.0.0",
+  "description": "provides music with nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/desertrockxxx/music-server.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "piping",
+    "streams"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/desertrockxxx/music-server/issues"
+  },
+  "homepage": "https://github.com/desertrockxxx/music-server#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
